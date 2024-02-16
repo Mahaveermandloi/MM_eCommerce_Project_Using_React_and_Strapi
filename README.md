@@ -1,4 +1,12 @@
-![Category Image](category.png)
+![Category](category.png)
+![Footer](footer.png)
+![Gateway](gateway.png)
+![Home](home.png)
+![Product Added to Cart](product_added_to_cart.png)
+![Product](product.png)
+![Related Products](related_products.png)
+![Shopping Cart](shopping_cart.png)
+![Single Product](single_product.png)
 
 
 # 🚀 Getting started with Strapi
